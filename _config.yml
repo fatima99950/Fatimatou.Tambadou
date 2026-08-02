@@ -1,6 +1,6 @@
 title: "Fatimatou Tambadou"
-logo: img/my.JPEG
-description: "Portfolio Datascientist - IA"
+logo: /img/my.jpeg
+description: "Portfolio d'une Ingénieure en Intelligence Artificielle & Big Data spécialisée en IA Générative, RAG et Assistants IA."
 show_downloads: true
-theme: jekill-theme-minimal
+theme: jekyll-theme-minimal
 lang: fr
