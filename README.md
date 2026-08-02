@@ -1,16 +1,16 @@
-<h1 align="center">👋 Bonjour, je suis Fatimatou Tambadou</h1>
+<h1 align="center">Fatimatou Tambadou</h1>
 
 <h3 align="center">
 Ingénieure en Intelligence Artificielle & Big Data
 </h3>
 
 <p align="center">
-🤖 IA Générative • RAG • Assistants IA • Agents IA • Data Science
+IA Générative • RAG • Assistants IA • Agents IA • Data Science
 </p>
 
 ---
 
-# 👩🏽 À propos de moi
+# À propos de moi
 
 Passionnée par l'Intelligence Artificielle et la valorisation des données, je conçois des solutions innovantes basées sur les modèles de langage (LLM), les systèmes **Retrieval-Augmented Generation (RAG)** et les **agents IA**.
 
@@ -18,16 +18,16 @@ Récemment diplômée en **Ingénierie Intelligence Artificielle & Big Data**, j
 
 Je recherche actuellement une opportunité en tant que :
 
-- 🤖 Ingénieure IA
-- 🧠 Ingénieure IA Générative
-- 📊 Data Scientist
-- ⚙️ Machine Learning Engineer
+-  Ingénieure IA
+-  Ingénieure IA Générative
+-  Data Scientist
+-  Machine Learning Engineer
 
 ---
 
-# 🚀 Mes projets
+#  Mes projets
 
-## 🏦 Assistant IA multimodal pour la conformité bancaire
+##  Assistant IA multimodal pour la conformité bancaire
 
 Développement d'un assistant IA capable d'analyser des documents réglementaires et de répondre aux questions des utilisateurs avec des réponses fiables, sourcées et contextualisées.
 
@@ -56,7 +56,7 @@ Développement d'un assistant IA capable d'analyser des documents réglementaire
 
 ---
 
-## 🤖 Veille réglementaire avec CrewAI
+##  Veille réglementaire avec CrewAI
 
 Conception d'un système multi-agents permettant d'automatiser la veille réglementaire.
 
@@ -79,7 +79,7 @@ Les agents assurent :
 
 ---
 
-## 📚 Évaluation de pipelines RAG
+##  Évaluation de pipelines RAG
 
 Comparaison de plusieurs architectures RAG grâce au framework **RAGAS**.
 
@@ -97,7 +97,7 @@ Comparaison de plusieurs architectures RAG grâce au framework **RAGAS**.
 
 ---
 
-## 🏦 Mini Core Banking System
+##  Mini Core Banking System
 
 Développement d'une application bancaire basée sur une architecture **Spring Boot Microservices**.
 
@@ -124,7 +124,7 @@ Développement d'une application bancaire basée sur une architecture **Spring B
 
 ---
 
-## 📊 Data Science & Machine Learning
+##  Data Science & Machine Learning
 
 Projets de Data Science comprenant :
 
@@ -141,7 +141,7 @@ Projets de Data Science comprenant :
 
 ---
 
-# 🛠️ Compétences techniques
+#  Compétences techniques
 
 ## Intelligence Artificielle
 
@@ -190,7 +190,7 @@ Projets de Data Science comprenant :
 
 ---
 
-# 🎯 Domaines d'intérêt
+#  Domaines d'intérêt
 
 - Intelligence Artificielle Générative
 - Assistants IA
@@ -204,11 +204,11 @@ Projets de Data Science comprenant :
 
 # 📫 Me contacter
 
-📧 Email : votre.email@gmail.com
+📧 Email : fatimatoutambadou@gmail.com
 
-💼 LinkedIn : https://linkedin.com/in/votre-profil
+💼 LinkedIn : https://linkedin.com/in/fatimatou-tambadou
 
-🌍 Portfolio : https://votre-portfolio.com
+🌍 Portfolio : https://github.com/fatima99950/Fatimatou.Tambadou.com
 
 ---
 
