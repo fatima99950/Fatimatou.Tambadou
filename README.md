@@ -1,228 +1,215 @@
-<h1 align="center">Hi 👋, I'm Fatimatou Tambadou</h1>
+<h1 align="center">👋 Bonjour, je suis Fatimatou Tambadou</h1>
 
 <h3 align="center">
-AI Engineer • Generative AI • RAG • Multi-Agent Systems • Data Science
+Ingénieure en Intelligence Artificielle & Big Data
 </h3>
 
 <p align="center">
-
-Building AI assistants that solve real-world business problems.
-
+🤖 IA Générative • RAG • Assistants IA • Agents IA • Data Science
 </p>
 
 ---
 
-# 👩🏽‍💻 About Me
+# 👩🏽 À propos de moi
 
-I'm an AI Engineer specialized in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, **LLMs**, and **AI Assistants**.
+Passionnée par l'Intelligence Artificielle et la valorisation des données, je conçois des solutions innovantes basées sur les modèles de langage (LLM), les systèmes **Retrieval-Augmented Generation (RAG)** et les **agents IA**.
 
-I recently graduated in **Artificial Intelligence & Big Data Engineering** and I'm passionate about designing intelligent systems that improve business processes.
+Récemment diplômée en **Ingénierie Intelligence Artificielle & Big Data**, je m'intéresse particulièrement à l'application de l'IA dans les secteurs bancaire, financier et de la transformation digitale.
 
-My latest work focuses on building AI solutions for the **banking sector**, combining:
+Je recherche actuellement une opportunité en tant que :
 
-- 🤖 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- 👥 Multi-Agent Systems (CrewAI)
-- 🗂️ Knowledge Graphs
-- 🧠 NLP
-- ☁️ Cloud Deployment
-
-Currently looking for opportunities as:
-
-- AI Engineer
-- Generative AI Engineer
-- Machine Learning Engineer
-- Data Scientist
+- 🤖 Ingénieure IA
+- 🧠 Ingénieure IA Générative
+- 📊 Data Scientist
+- ⚙️ Machine Learning Engineer
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Mes projets
 
-## 🏦 Banking AI Compliance Assistant
+## 🏦 Assistant IA multimodal pour la conformité bancaire
 
-A multimodal AI assistant designed for banking compliance.
+Développement d'un assistant IA capable d'analyser des documents réglementaires et de répondre aux questions des utilisateurs avec des réponses fiables, sourcées et contextualisées.
 
-### Features
+### Fonctionnalités
 
-- RAG Pipeline
-- LangChain
-- ChromaDB
-- Neo4j Knowledge Graph
-- CrewAI
-- HuggingFace
-- Source Citation
-- Image Retrieval
-- Regulatory Question Answering
+- Recherche documentaire (RAG)
+- Réponses générées par LLM
+- Recherche multimodale (texte + images)
+- Citations des sources
+- Base vectorielle
+- Graphe de connaissances
 
-**Tech Stack**
+### Technologies
 
-```
-Python
-LangChain
-ChromaDB
-Neo4j
-CrewAI
-Transformers
-HuggingFace
-FastAPI
-```
-
-🔗 Repository:
-
-> https://github.com/USERNAME/banking-rag-assistant
-
----
-
-## 🤖 Multi-Agent Regulatory Monitoring
-
-Autonomous AI agents continuously monitor regulatory publications.
-
-Agents include:
-
-- Web Scraper
-- Document Extractor
-- Curator
-- Indexer
-
-Built with
-
-- CrewAI
 - Python
 - LangChain
+- ChromaDB
+- Neo4j
+- Hugging Face
+- Transformers
+- CrewAI
 
-🔗 Repository:
+🔗 **Dépôt GitHub**
 
-> https://github.com/USERNAME/crewai-regulatory-monitor
+> https://github.com/VOTRE_USERNAME/assistant-ia-bancaire
 
 ---
 
-## 📚 RAG Evaluation Framework
+## 🤖 Veille réglementaire avec CrewAI
 
-Evaluation of multiple Retrieval-Augmented Generation pipelines using **RAGAS**.
+Conception d'un système multi-agents permettant d'automatiser la veille réglementaire.
 
-Includes:
+Les agents assurent :
+
+- téléchargement des documents
+- extraction des informations
+- indexation
+- mise à jour de la base documentaire
+
+### Technologies
+
+- CrewAI
+- LangChain
+- Python
+
+🔗 **Dépôt GitHub**
+
+> https://github.com/VOTRE_USERNAME/crewai-veille
+
+---
+
+## 📚 Évaluation de pipelines RAG
+
+Comparaison de plusieurs architectures RAG grâce au framework **RAGAS**.
+
+### Évaluation
 
 - Faithfulness
 - Answer Relevancy
-- Context Precision
 - Context Recall
-- Independent LLM Judge
+- Context Precision
+- Similarité des réponses
 
-🔗 Repository
+🔗 **Dépôt GitHub**
 
-> https://github.com/USERNAME/rag-evaluation
+> https://github.com/VOTRE_USERNAME/rag-evaluation
 
 ---
 
-## 🏦 Banking Agency Management System
+## 🏦 Mini Core Banking System
 
-Mini Core Banking application developed with Spring Boot.
+Développement d'une application bancaire basée sur une architecture **Spring Boot Microservices**.
 
-Features
+### Fonctionnalités
 
-- Customer Management
-- Accounts
-- Deposits
-- Withdrawals
-- JWT Authentication
-- Microservices
+- Gestion des clients
+- Gestion des comptes
+- Dépôts
+- Retraits
+- Authentification JWT
 - API Gateway
 
-Stack
+### Technologies
 
-```
-Java
-Spring Boot
-Spring Security
-MySQL
-Docker
-```
+- Java
+- Spring Boot
+- Spring Security
+- Docker
+- MySQL
 
-🔗 Repository
+🔗 **Dépôt GitHub**
 
-> https://github.com/USERNAME/banking-core-system
+> https://github.com/VOTRE_USERNAME/core-banking
 
 ---
 
-## 📊 Data Science Projects
+## 📊 Data Science & Machine Learning
 
-Machine Learning projects including:
+Projets de Data Science comprenant :
 
 - Classification
 - Clustering
+- Analyse de données
 - NLP
-- Dashboarding
+- Visualisation de données
 - Power BI
 
-🔗 Repository
+🔗 **Dépôt GitHub**
 
-> https://github.com/USERNAME/data-science-projects
+> https://github.com/VOTRE_USERNAME/data-science
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Compétences techniques
 
-### AI
+## Intelligence Artificielle
 
-- LLMs
-- RAG
+- IA Générative
+- LLM
 - LangChain
 - CrewAI
-- HuggingFace
+- RAG
+- Hugging Face
 - Transformers
 
-### Machine Learning
+## Machine Learning
 
 - Scikit-Learn
 - TensorFlow
 - PyTorch
 
-### Data
+## Développement
 
-- Pandas
-- NumPy
-- SQL
-- Power BI
-
-### Backend
-
+- Python
+- Java
+- Spring Boot
 - FastAPI
 - Flask
-- Spring Boot
 
-### Databases
+## Bases de données
 
 - MySQL
 - PostgreSQL
+- Neo4j
 - ChromaDB
 - FAISS
-- Neo4j
 
-### Cloud & DevOps
+## Data
+
+- SQL
+- Pandas
+- NumPy
+- Power BI
+
+## DevOps
 
 - Docker
 - Git
 - GitHub
-- AWS S3
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 Domaines d'intérêt
 
-<!-- GitHub Stats -->
+- Intelligence Artificielle Générative
+- Assistants IA
+- NLP
+- Banque & Finance
+- Analyse de données
+- Transformation digitale
+- IA appliquée aux entreprises
 
 ---
 
-# 🌍 Let's Connect
+# 📫 Me contacter
 
-LinkedIn
+📧 Email : votre.email@gmail.com
 
-> https://linkedin.com/in/VOTRE-LINKEDIN
+💼 LinkedIn : https://linkedin.com/in/votre-profil
 
-Email
+🌍 Portfolio : https://votre-portfolio.com
 
-> votre@email.com
+---
 
-Portfolio
-
-> https://votre-site.com
+⭐ N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle.
